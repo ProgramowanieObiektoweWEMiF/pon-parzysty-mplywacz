@@ -1,0 +1,3 @@
+1. Program będzie wyświetlał zestawienie wszystkich pierwiastków w postaci tablicy, każdemu pierwiastkowi będzie przyporządkowane jedno pole. Pierwiastki będą pogrupowane tak, jak wygląda to na tablicy Mendelejewa.
+2. Kliknięcie na pole z danym pierwiastkiem będzie wyświetlało szczegóły dotyczące danego pierwiastka: liczba atomowa, temperatura wrzenia i topnienia itp. stopniowo będą dodawane kolejne funkcjonalności
+3. Pola z pierwiastkami będą posiadały szatę graficzną odpowiednią do rodzaju pierwiastka (metale, niemetale itp.
