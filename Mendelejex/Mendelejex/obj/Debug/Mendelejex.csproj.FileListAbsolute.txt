@@ -1,0 +1,30 @@
+C:\Users\Patryk\Dysk Google\Projects\Programming\Visual\Mendelejex\Mendelejex\bin\Debug\Mendelejex.exe.config
+C:\Users\Patryk\Dysk Google\Projects\Programming\Visual\Mendelejex\Mendelejex\bin\Debug\Mendelejex.exe
+C:\Users\Patryk\Dysk Google\Projects\Programming\Visual\Mendelejex\Mendelejex\bin\Debug\Mendelejex.pdb
+C:\Users\Patryk\Dysk Google\Projects\Programming\Visual\Mendelejex\Mendelejex\obj\Debug\Mendelejex.Form1.resources
+C:\Users\Patryk\Dysk Google\Projects\Programming\Visual\Mendelejex\Mendelejex\obj\Debug\Mendelejex.Properties.Resources.resources
+C:\Users\Patryk\Dysk Google\Projects\Programming\Visual\Mendelejex\Mendelejex\obj\Debug\Mendelejex.csproj.GenerateResource.cache
+C:\Users\Patryk\Dysk Google\Projects\Programming\Visual\Mendelejex\Mendelejex\obj\Debug\Mendelejex.csproj.CoreCompileInputs.cache
+C:\Users\Patryk\Dysk Google\Projects\Programming\Visual\Mendelejex\Mendelejex\obj\Debug\Mendelejex.exe
+C:\Users\Patryk\Dysk Google\Projects\Programming\Visual\Mendelejex\Mendelejex\obj\Debug\Mendelejex.pdb
+C:\Users\Patryk\Dysk Google\Projects\Programming\Visual\Mendelejex\Mendelejex\obj\Debug\Mendelejex.csprojAssemblyReference.cache
+E:\Mendelejex\Mendelejex\bin\Debug\Mendelejex.exe.config
+E:\Mendelejex\Mendelejex\bin\Debug\Mendelejex.exe
+E:\Mendelejex\Mendelejex\bin\Debug\Mendelejex.pdb
+E:\Mendelejex\Mendelejex\obj\Debug\Mendelejex.csprojAssemblyReference.cache
+E:\Mendelejex\Mendelejex\obj\Debug\Mendelejex.Form1.resources
+E:\Mendelejex\Mendelejex\obj\Debug\Mendelejex.Properties.Resources.resources
+E:\Mendelejex\Mendelejex\obj\Debug\Mendelejex.csproj.GenerateResource.cache
+E:\Mendelejex\Mendelejex\obj\Debug\Mendelejex.csproj.CoreCompileInputs.cache
+E:\Mendelejex\Mendelejex\obj\Debug\Mendelejex.exe
+E:\Mendelejex\Mendelejex\obj\Debug\Mendelejex.pdb
+C:\Users\Michał Pływacz\Desktop\Mendelejex\Mendelejex\bin\Debug\Mendelejex.exe.config
+C:\Users\Michał Pływacz\Desktop\Mendelejex\Mendelejex\bin\Debug\Mendelejex.exe
+C:\Users\Michał Pływacz\Desktop\Mendelejex\Mendelejex\bin\Debug\Mendelejex.pdb
+C:\Users\Michał Pływacz\Desktop\Mendelejex\Mendelejex\obj\Debug\Mendelejex.csprojAssemblyReference.cache
+C:\Users\Michał Pływacz\Desktop\Mendelejex\Mendelejex\obj\Debug\Mendelejex.Form1.resources
+C:\Users\Michał Pływacz\Desktop\Mendelejex\Mendelejex\obj\Debug\Mendelejex.Properties.Resources.resources
+C:\Users\Michał Pływacz\Desktop\Mendelejex\Mendelejex\obj\Debug\Mendelejex.csproj.GenerateResource.cache
+C:\Users\Michał Pływacz\Desktop\Mendelejex\Mendelejex\obj\Debug\Mendelejex.csproj.CoreCompileInputs.cache
+C:\Users\Michał Pływacz\Desktop\Mendelejex\Mendelejex\obj\Debug\Mendelejex.exe
+C:\Users\Michał Pływacz\Desktop\Mendelejex\Mendelejex\obj\Debug\Mendelejex.pdb

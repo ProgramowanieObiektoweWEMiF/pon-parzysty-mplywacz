@@ -1,0 +1,10 @@
+F:\Dysk Google\Projects\Programming\Visual\Mendelejex\Mendelejex\bin\Release\Mendelejex.exe.config
+F:\Dysk Google\Projects\Programming\Visual\Mendelejex\Mendelejex\bin\Release\Mendelejex.exe
+F:\Dysk Google\Projects\Programming\Visual\Mendelejex\Mendelejex\bin\Release\Mendelejex.pdb
+F:\Dysk Google\Projects\Programming\Visual\Mendelejex\Mendelejex\obj\Release\Mendelejex.csprojAssemblyReference.cache
+F:\Dysk Google\Projects\Programming\Visual\Mendelejex\Mendelejex\obj\Release\Mendelejex.Form1.resources
+F:\Dysk Google\Projects\Programming\Visual\Mendelejex\Mendelejex\obj\Release\Mendelejex.Properties.Resources.resources
+F:\Dysk Google\Projects\Programming\Visual\Mendelejex\Mendelejex\obj\Release\Mendelejex.csproj.GenerateResource.cache
+F:\Dysk Google\Projects\Programming\Visual\Mendelejex\Mendelejex\obj\Release\Mendelejex.csproj.CoreCompileInputs.cache
+F:\Dysk Google\Projects\Programming\Visual\Mendelejex\Mendelejex\obj\Release\Mendelejex.exe
+F:\Dysk Google\Projects\Programming\Visual\Mendelejex\Mendelejex\obj\Release\Mendelejex.pdb
